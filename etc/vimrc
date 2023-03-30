@@ -1,4 +1,4 @@
-filetype on
+ifiletype on
 filetype plugin on
 filetype indent on
 autocmd FileType c,cpp,java,python set formatoptions+=ro
@@ -16,7 +16,7 @@ set backspace=indent,eol,start
 set ignorecase
 set smartcase
 set incsearch
-color delek
+color elflord
 set autoindent
 "set showtabline=2"
 "set winwidth=79"
